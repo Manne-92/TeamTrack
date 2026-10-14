@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="TeamTrack: courses, teams and live lessons">
+  <rect width="1400" height="440" rx="28" fill="#102E28"/>
+  <circle cx="1350" cy="-50" r="350" fill="#1B4137"/>
+  <circle cx="1260" cy="80" r="185" fill="#2B5746" opacity=".45"/>
+  <rect x="64" y="57" width="46" height="46" rx="13" fill="#D9F99D"/>
+  <path d="M76 71h23v7H91v18h-7V78h-8z" fill="#153329"/>
+  <text x="124" y="90" fill="#F8F7EE" font-family="Arial,sans-serif" font-size="28" font-weight="700">TeamTrack</text>
+  <text x="64" y="174" fill="#F8F7EE" font-family="Arial,sans-serif" font-size="52" font-weight="700">One workspace.</text>
+  <text x="64" y="234" fill="#D9F99D" font-family="Arial,sans-serif" font-size="52" font-weight="700">A connected study day.</text>
+  <text x="66" y="285" fill="#BED3C8" font-family="Arial,sans-serif" font-size="22">Courses · Teams · Conversations · Live lessons</text>
+  <rect x="64" y="331" width="352" height="43" rx="21" fill="#234A3B"/>
+  <text x="86" y="360" fill="#E1EDD9" font-family="Arial,sans-serif" font-size="18">PROJECT SHOWCASE · SOURCE PRIVATE</text>
+  <g transform="translate(845 89)">
+    <rect width="456" height="256" rx="23" fill="#F7F7EF"/>
+    <rect x="18" y="18" width="86" height="220" rx="13" fill="#193C30"/>
+    <rect x="34" y="36" width="53" height="8" rx="4" fill="#D9F99D"/>
+    <rect x="34" y="65" width="50" height="7" rx="3" fill="#819E8B"/>
+    <rect x="34" y="89" width="38" height="7" rx="3" fill="#819E8B"/>
+    <rect x="34" y="113" width="46" height="7" rx="3" fill="#819E8B"/>
+    <text x="126" y="54" fill="#1D3C32" font-family="Arial,sans-serif" font-size="21" font-weight="700">Your study workspace</text>
+    <rect x="124" y="75" width="148" height="70" rx="12" fill="#E2EADB"/>
+    <rect x="285" y="75" width="148" height="70" rx="12" fill="#EAE2F3"/>
+    <text x="143" y="104" fill="#244333" font-family="Arial,sans-serif" font-size="15">COURSES</text>
+    <text x="304" y="104" fill="#4E396A" font-family="Arial,sans-serif" font-size="15">TEAM CHAT</text>
+    <rect x="124" y="159" width="309" height="79" rx="12" fill="#18372E"/>
+    <circle cx="153" cy="198" r="15" fill="#D9F99D"/>
+    <path d="M149 190l11 8-11 8z" fill="#18372E"/>
+    <text x="181" y="192" fill="#F7F7EF" font-family="Arial,sans-serif" font-size="17" font-weight="700">Live lesson</text>
+    <text x="181" y="216" fill="#A9C8B5" font-family="Arial,sans-serif" font-size="14">Learn and collaborate</text>
+  </g>
+</svg>

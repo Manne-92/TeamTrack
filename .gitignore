@@ -1,0 +1,8 @@
+# Public repository: explicit allowlist. Application files stay excluded.
+*
+!.gitignore
+!README.md
+!README.sv.md
+!assets/
+assets/*
+!assets/teamtrack-cover.svg
